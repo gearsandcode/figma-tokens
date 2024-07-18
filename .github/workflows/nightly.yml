@@ -1,7 +1,5 @@
 name: Nightly beta release 
 on:
-  schedule:
-    - cron: "0 16 * * *"
   workflow_dispatch:
 
 
